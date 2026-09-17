@@ -121,3 +121,15 @@ not pushed anywhere is only in `/workspace`.
 
 The app is limited to 2 CPUs and 4 GiB of memory. Language servers, builds and
 tests run inside it too: raise `limits` in `template.yaml` for large projects.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
