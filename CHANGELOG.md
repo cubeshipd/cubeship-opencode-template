@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/cubeshipd/cubeship-opencode-template/compare/v1.1.0...v1.1.1) (2026-09-18)
+
+
+### Bug Fixes
+
+* update ghcr.io/anomalyco/opencode docker tag to v2.0.8 ([#10](https://github.com/cubeshipd/cubeship-opencode-template/issues/10)) ([2a2b4e6](https://github.com/cubeshipd/cubeship-opencode-template/commit/2a2b4e68b0bdadf5c2dcad8cdd24e837adba2292))
+
 ## [1.1.0](https://github.com/cubeshipd/cubeship-opencode-template/compare/v1.0.2...v1.1.0) (2026-09-18)
 
 
